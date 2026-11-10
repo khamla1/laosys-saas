@@ -1,0 +1,28 @@
+{
+  "name": "LAOSYS - ລະບົບຈັດການຮ້ານຄ້າ POS ແລະ ເວັບໄຊທ໌ E-Commerce",
+  "short_name": "LAOSYS",
+  "description": "LAOSYS ແພລດຟອມຈັດການຮ້ານຄ້າຄົບວົງຈອນ ລະບົບ POS ຂາຍໜ້າຮ້ານ ແລະ ເວັບໄຊທ໌ E-Commerce",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
